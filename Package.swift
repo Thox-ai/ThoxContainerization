@@ -22,7 +22,7 @@ import Foundation
 import PackageDescription
 
 let package = Package(
-    name: "containerization",
+    name: "ThoxContainerization",
     platforms: [.macOS("15.0")],
     products: [
         .library(name: "Containerization", targets: ["Containerization", "ContainerizationError"]),
