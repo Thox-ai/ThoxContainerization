@@ -1,3 +1,41 @@
+<!-- thox-badges -->
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square&labelColor=09090b)](LICENSE)
+[![THOX.ai](https://img.shields.io/badge/THOX.ai-portfolio-0a0a0a?style=flat-square&labelColor=09090b)](https://thox.ai)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square&labelColor=09090b)](https://github.com/Thox-ai/ThoxContainerization)
+[![Release](https://img.shields.io/github/v/release/Thox-ai/ThoxContainerization?style=flat-square&labelColor=09090b&logo=github)](https://github.com/Thox-ai/ThoxContainerization/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/Thox-ai/ThoxContainerization?style=flat-square&labelColor=09090b)](https://github.com/Thox-ai/ThoxContainerization/commits/main)
+[![Issues](https://img.shields.io/github/issues/Thox-ai/ThoxContainerization?style=flat-square&labelColor=09090b)](https://github.com/Thox-ai/ThoxContainerization/issues)
+<!-- /thox-badges -->
+
+# ThoxContainerization (Thox.ai fork)
+
+> **Fork of [apple/containerization](https://github.com/apple/containerization)**
+> maintained by Thox.ai LLC as the core runtime library for
+> [ThoxTainer](../ThoxTainer) and **ThoxOS** (ThoxOS Mini, ThoxOS Air, and
+> custom embedded Linux distributions). See [FORK_NOTICE.md](FORK_NOTICE.md)
+> for the full fork notice and upstream contribution policy.
+
+**Thox focus areas**: customized minimal Linux kernels for fast-booting secure
+edge VMs; `vminitd` extensions for the Thox control plane, model serving, and
+attestation; OCI plus native ThoxOS image formats; strong integration with
+Apple silicon security features.
+
+## Legal
+
+Copyright (c) 2026 Thox.ai LLC. All rights reserved. (THOX-specific
+contributions; Apple's original Apache 2.0 license and copyrights are
+preserved in [LICENSE](LICENSE).)
+
+Thox.ai LLC is an independent Texas limited liability company.
+
+- **Tommy Xaypanya** - Chief Technology Officer (CTO)
+- **Craig Ross** - Chief Executive Officer (CEO)
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
+
+---
+
+# Original Containerization README
 <h1>
   <img alt="Containerization logo" src="./assets/Containerization-Logo.png" width="70" valign="middle">
   &nbsp;Containerization
